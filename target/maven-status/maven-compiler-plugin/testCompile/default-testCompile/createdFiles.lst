@@ -1,0 +1,6 @@
+com/addressbookdemo/utilities/TestHexAsciiConversion.class
+com/addressbookdemo/webtest/selenium_tests.class
+com/addressbookdemo/utilities/ExceptionThrower.class
+com/addressbookdemo/utilities/TestGenericComparator.class
+com/addressbookdemo/utilities/TestLogger.class
+com/addressbookdemo/utilities/UnitDTO.class
